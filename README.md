@@ -22,5 +22,5 @@ This demo world consists of:
 # Project History
 
 - **(2012-2013)** The project demo was created by Michael Wehar.
-- **(December 2016)** This repo started.
+- **(December 2016)** The project repo was made public.
 - **(February 2017)** Hunting feature was added by Jesse Hartloff so that the blue circle would slowly move towards the player.
